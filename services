@@ -1,0 +1,2 @@
+service gogs start
+spider nohup

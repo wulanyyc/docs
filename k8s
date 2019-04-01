@@ -10,3 +10,7 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl
 
 aliyun minikube
 https://yq.aliyun.com/articles/221687
+https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl
+https://www.virtualbox.org/wiki/Downloads?spm=a2c4e.11153940.blogcont221687.20.7dd54cecVisF2w
+
+minikube start --registry-mirror=https://registry.docker-cn.com

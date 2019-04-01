@@ -1,2 +1,4 @@
 local k8s
 https://github.com/kubernetes-sigs/kubeadm-dind-cluster
+
+https://kubernetes.io/docs/tasks/tools/install-minikube/

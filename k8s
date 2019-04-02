@@ -22,3 +22,35 @@ https://yq.aliyun.com/articles/508460?spm=a2c4e.11153940.blogcont221687.17.34f34
 minikube例子
 https://linux.cn/article-8847-1.html
 https://www.jianshu.com/p/c8bb49edf466
+
+创建镜像
+kubectl create deployment ping2 --image=yycdocker1805/test:v3
+
+kubectl get deployments
+
+kubectl get pods
+
+Cluster IP(默认)： 只有集群内部访问。
+NodePort: 使用NAT方式，在集群中每个选定的节点的同一端口上暴露服务。可以在集群外部访问服务。
+LoadBalancer：创建外部负载均衡。
+ExternalName：使用任意名称显示服务。
+kubectl expose deployment ping2 --type=LoadBalancer --port=8399  注意端口一致
+
+kubectl get services
+
+minikube service ping2
+
+kubectl delete service hello-node
+kubectl delete deployment hello-node
+
+minikube stop
+minikube delete
+
+更新镜像
+kubectl set image deployments/ping2 test=yycdocker1805/test:v3
+
+// 扩充到3个实例
+kubectl scale deployments/ping2 --replicas=3
+
+// 缩小到1个实例
+kubectl scale deployments/ping2 --replicas=1

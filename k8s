@@ -54,3 +54,6 @@ kubectl scale deployments/ping2 --replicas=3
 
 // 缩小到1个实例
 kubectl scale deployments/ping2 --replicas=1
+
+
+https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#api-versions

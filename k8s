@@ -57,3 +57,6 @@ kubectl scale deployments/ping2 --replicas=1
 
 
 https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#api-versions
+
+k8s client
+https://kubernetes.io/docs/reference/using-api/client-libraries/

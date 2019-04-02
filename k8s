@@ -17,3 +17,8 @@ minikube start --registry-mirror=https://registry.docker-cn.com
 
 docker社区版
 https://yq.aliyun.com/articles/508460?spm=a2c4e.11153940.blogcont221687.17.34f34cecsws0By
+
+
+minikube例子
+https://linux.cn/article-8847-1.html
+https://www.jianshu.com/p/c8bb49edf466

@@ -60,3 +60,5 @@ https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#api-vers
 
 k8s client
 https://kubernetes.io/docs/reference/using-api/client-libraries/
+
+https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/

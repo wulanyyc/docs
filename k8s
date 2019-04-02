@@ -14,3 +14,6 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl
 https://www.virtualbox.org/wiki/Downloads?spm=a2c4e.11153940.blogcont221687.20.7dd54cecVisF2w
 
 minikube start --registry-mirror=https://registry.docker-cn.com
+
+docker社区版
+https://yq.aliyun.com/articles/508460?spm=a2c4e.11153940.blogcont221687.17.34f34cecsws0By

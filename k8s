@@ -38,6 +38,8 @@ kubectl expose deployment ping2 --type=LoadBalancer --port=8399  注意端口一
 
 kubectl get services
 
+k8s服务暴露
+
 minikube service ping2
 
 kubectl delete service hello-node

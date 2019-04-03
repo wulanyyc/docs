@@ -34,6 +34,7 @@ Cluster IP(默认)： 只有集群内部访问。
 NodePort: 使用NAT方式，在集群中每个选定的节点的同一端口上暴露服务。可以在集群外部访问服务。
 LoadBalancer：创建外部负载均衡。
 ExternalName：使用任意名称显示服务。
+
 kubectl expose deployment ping2 --type=LoadBalancer --port=8399  注意端口一致
 
 kubectl get services

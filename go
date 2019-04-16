@@ -10,5 +10,8 @@ https://gin-gonic.com/docs/examples/
 docker go
 https://studygolang.com/articles/11427
 
-go mysql poll
+go mysql pool
 https://www.jianshu.com/p/340eb943be2e
+
+go nil 介绍
+https://studygolang.com/articles/9506

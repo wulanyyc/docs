@@ -9,3 +9,6 @@ https://gin-gonic.com/docs/examples/
 
 docker go
 https://studygolang.com/articles/11427
+
+go mysql poll
+https://www.jianshu.com/p/340eb943be2e

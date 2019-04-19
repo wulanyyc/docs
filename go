@@ -15,3 +15,6 @@ https://www.jianshu.com/p/340eb943be2e
 
 go nil 介绍
 https://studygolang.com/articles/9506
+
+go log zerolog
+https://github.com/rs/zerolog

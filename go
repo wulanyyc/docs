@@ -18,3 +18,6 @@ https://studygolang.com/articles/9506
 
 go log zerolog
 https://github.com/rs/zerolog
+
+go mpg模式
+https://blog.csdn.net/zzr881/article/details/82533661

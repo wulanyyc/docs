@@ -21,3 +21,6 @@ https://github.com/rs/zerolog
 
 go mpg模式
 https://blog.csdn.net/zzr881/article/details/82533661
+
+go sync
+https://studygolang.com/articles/11038?fr=sidebar

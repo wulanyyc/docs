@@ -24,3 +24,9 @@ https://blog.csdn.net/zzr881/article/details/82533661
 
 go sync
 https://studygolang.com/articles/11038?fr=sidebar
+
+go arch
+https://www.jianshu.com/p/efaef7940207
+
+go cors
+https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request

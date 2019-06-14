@@ -1,2 +1,5 @@
 js func 兼容性
 https://caniuse.com/#search=getUserMedia
+
+cors header 与 headers
+https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request
